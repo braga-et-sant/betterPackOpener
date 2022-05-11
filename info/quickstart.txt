@@ -11,7 +11,7 @@ Optional steps to get to use the Edopro banlist functions.
 To make Edopro show only cards you own
 >main program -> banlist/whitelist tools -> Create Whitelist
 >select all your pull files and then click Go
->this will shit out a file to your banlist folder. Put it in the edopro ProjectIgnis\repositories\lflists folder
+>this will output a file to your banlist folder. Put it in the edopro ProjectIgnis\repositories\lflists folder
 >then you can access it using edo's deckbuilder
  
 The files for the current banlist and the gifts also come bundled with the program by default inside /pulls and /banlist
